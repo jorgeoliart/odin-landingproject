@@ -59,3 +59,14 @@ header ul {
     font-weight: 800;
     font-size: 1.4rem;
 }
+
+.hero-text button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    padding: 5px 20px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
