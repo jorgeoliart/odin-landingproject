@@ -38,3 +38,8 @@ header ul {
     flex: 0 0 80%;
     justify-content: space-between;
 }
+
+.header-content > p {
+    font-weight: 800;
+    font-size: 1.4rem;
+}
