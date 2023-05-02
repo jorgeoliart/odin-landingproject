@@ -17,6 +17,13 @@ header, footer {
 .hero-introduction {
     background-color: #1F2937;
     color: #F9FAF8;
+    display: flex;
+}
+
+.hero-content {
+    flex: 0 1 80%;
+    margin: 0 auto;
+    display: flex;
 }
 
 header {
