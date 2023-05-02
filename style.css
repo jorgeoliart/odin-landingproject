@@ -26,6 +26,11 @@ header, footer {
     display: flex;
 }
 
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
 header {
     justify-content: center;
     padding: 15px 10px;
