@@ -7,3 +7,8 @@ header, footer {
     background-color: #1F2937;
     color: #f9faf8;
 }
+
+header ul {
+    font-size: 18px;
+    color: #e5e7eb;
+}
