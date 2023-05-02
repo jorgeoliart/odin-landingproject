@@ -24,6 +24,7 @@ header, footer {
     flex: 0 1 80%;
     margin: 100px auto;
     display: flex;
+    gap: 20px;
 }
 
 .hero-content > div {
