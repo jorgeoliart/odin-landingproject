@@ -30,6 +30,16 @@ header, footer {
     flex: 1;
 }
 
+.hero-image {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image img {
+    width: 100%;
+    height: auto;
+}
+
 .hero-text h1 {
     font-size: 48px;
     font-weight: extra-bold;
@@ -68,5 +78,4 @@ header ul {
     border: 0;
     border-radius: 5px;
     font-size: 18px;
-
 }
