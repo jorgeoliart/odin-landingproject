@@ -90,7 +90,9 @@ header ul {
 
 .random-information {
    display: flex;
-   flex-direction: column; 
+   flex-direction: column;
+   width: 70%;
+   margin: 40px auto;
 }
 
 .info-blocks {
