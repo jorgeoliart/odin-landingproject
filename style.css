@@ -137,3 +137,11 @@ header ul {
     width: 70%;
     margin: 0 auto;
 }
+
+.quote-content p:first-of-type {
+    color:#1F2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+
+}
