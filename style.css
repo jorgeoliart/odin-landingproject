@@ -104,12 +104,12 @@ header ul {
 
 .info-blocks {
     display: flex;
-    gap: 20px;
-    justify-content: space-between;
+    gap: 40px;
+    justify-content: center;
 }
 
 .info-block  {
-    flex: 0 1 180px;
+    flex: 0 0 180px;
 }
 
 .info-block-image {
