@@ -162,4 +162,7 @@ header ul {
     background-color: #3882F6;
     width: 80%;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
 }
