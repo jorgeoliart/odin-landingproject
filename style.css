@@ -145,3 +145,7 @@ header ul {
     font-weight: 300;
 
 }
+
+.quote .author {
+    text-align: right;
+}
