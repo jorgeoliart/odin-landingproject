@@ -109,12 +109,12 @@ header ul {
 }
 
 .info-block  {
-    flex: 0 1 auto;
+    flex: 0 1 180px;
 }
 
 .info-block-image {
     border: solid 3px #3882F6;
-    width: 175px;
-    height: 175px;
+    width: 100%;
+    height: 180px;
     border-radius: 10px;
 }
