@@ -106,3 +106,10 @@ header ul {
 .info-blocks {
     display: flex;
 }
+
+.info-block-image {
+    border: solid 3px #3882F6;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
