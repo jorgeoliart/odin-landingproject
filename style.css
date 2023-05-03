@@ -185,3 +185,9 @@ header ul {
 .cto-message p {
     font-size: 18px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
