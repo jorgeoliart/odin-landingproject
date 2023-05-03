@@ -93,6 +93,7 @@ header ul {
    flex-direction: column;
    width: 70%;
    margin: 40px auto;
+   gap: 40px;
 }
 
 .random-information h2 {
