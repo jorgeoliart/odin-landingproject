@@ -112,6 +112,7 @@ header ul {
     flex: 0 0 180px;
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
 
 .info-block-image {
