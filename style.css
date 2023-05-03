@@ -93,8 +93,9 @@ header ul {
    display: flex;
    flex-direction: column;
    width: 70%;
-   margin: 40px auto;
+   margin: auto;
    gap: 40px;
+   padding: 60px 0 100px 0;
 }
 
 .random-information h2 {
