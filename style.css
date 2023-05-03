@@ -100,16 +100,21 @@ header ul {
     font-size: 36px;
     font-weight: extra-bold;
     text-align: center;
-
 }
 
 .info-blocks {
     display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.info-block  {
+    flex: 0 1 auto;
 }
 
 .info-block-image {
     border: solid 3px #3882F6;
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     border-radius: 10px;
 }
