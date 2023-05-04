@@ -99,6 +99,7 @@ header ul {
    margin: auto;
    gap: 40px;
    padding: 60px 0 100px 0;
+   background-color: #F9FAF8;
 }
 
 .random-information h2 {
@@ -162,7 +163,7 @@ header ul {
 }
 
 .cto-container {
-    color: white;
+    color: #F9FAF8;
     background-color: #3882F6;
     width: 80%;
     margin: 0 auto;
