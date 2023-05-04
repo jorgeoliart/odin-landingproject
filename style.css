@@ -110,7 +110,7 @@ header ul {
 
 .info-blocks {
     display: flex;
-    gap: 40px;
+    gap: 50px;
     justify-content: center;
 }
 
